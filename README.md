@@ -1,3 +1,5 @@
+## 🎥 Video Demo
+[Watch Demo Video][(https://loom.com/your-video-link)](https://www.loom.com/share/c96993d355bc47459f8ca47adefd5adb)
 # Документація проєкту: Дашборд AI-Аналітики Amazon EU
 
 ### 1. Обраний технологічний стек та обґрунтування
